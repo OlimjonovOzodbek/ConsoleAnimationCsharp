@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //Ozodbek
             string[] qatorlar = { "Telegram", "Instagram", "WhatsUp", "Twitter", "TikTok" };
             int cursor = 0;
             ConsoleKeyInfo key;
